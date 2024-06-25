@@ -19,7 +19,7 @@ Before you begin, make sure you have Python and pip installed on your system. Yo
 ### Setting up a Virtual Environment
 1. Open a terminal and navigate to the project directory:
  ```
-cd /path/to/your/project or just open you directory manually -> rightclick -> open with command terminal
+cd /path/to/your/project or just open you're directory manually -> rightclick -> open with command terminal
  ```
 
 then in order to install the virtual environment insert
